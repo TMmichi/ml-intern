@@ -32,7 +32,7 @@ const MODEL_OPTIONS: ModelOption[] = [
   {
     id: 'minimax-m2.7',
     name: 'MiniMax M2.7',
-    description: 'MiniMax',
+    description: 'Via Novita',
     modelPath: 'MiniMaxAI/MiniMax-M2.7',
     avatarUrl: getHfAvatarUrl('MiniMaxAI/MiniMax-M2.7'),
     recommended: true,
@@ -40,14 +40,14 @@ const MODEL_OPTIONS: ModelOption[] = [
   {
     id: 'kimi-k2.6',
     name: 'Kimi K2.6',
-    description: 'Moonshot AI',
+    description: 'Via Novita',
     modelPath: 'moonshotai/Kimi-K2.6',
     avatarUrl: getHfAvatarUrl('moonshotai/Kimi-K2.6'),
   },
   {
     id: 'glm-5.1',
     name: 'GLM 5.1',
-    description: 'Z.ai',
+    description: 'Via Together',
     modelPath: 'zai-org/GLM-5.1',
     avatarUrl: getHfAvatarUrl('zai-org/GLM-5.1'),
   },
